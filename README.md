@@ -1,3 +1,16 @@
+Founder - Ankit Kumar 
+Co-Founder - Aayush Raj 
+
+this project is made under the supervision of Founder and God Ankit Kumar.
+@sleepy_ankit
+
+
+
+
+
+
+
+
 # Customer-Churn-Prediction
 ## 📌 Project Overview
 
@@ -164,6 +177,7 @@ The application will open in the browser at:
 
 ## 👤 Author
 
-Aayush Raj
+Founder - Ankit Kumar 
+Co-Founder - Aayush Raj 
 
 B.Tech – Computer Science & Engineering (AI & ML)    
